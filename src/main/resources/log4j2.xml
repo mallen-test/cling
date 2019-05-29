@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="WARN">
 	<Properties>
-		<Property name="pathRoot">/tima/logs/vehicle-alarm</Property>
+		<Property name="pathRoot">/mallen/logs/vehicle-alarm</Property>
 		<Property name="app">vehicle-alarm</Property>
 	</Properties>
 	<Appenders>
@@ -15,7 +15,7 @@
 		</Console>
 	</Appenders>
 	<Loggers>
-		<Logger name = "com.timanetworks" level="debug">
+		<Logger name = "org.mallen" level="debug">
 		</Logger>
 
 		<Root level="debug">
