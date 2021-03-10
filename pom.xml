@@ -26,7 +26,7 @@
         <cling.version>2.1.1</cling.version>
         <slf4j.version>1.7.22</slf4j.version>
         <log4j.version>2.4</log4j.version>
-        <jetty.version>9.4.17.v20190418</jetty.version>
+        <jetty.version>9.4.38.v20210224</jetty.version>
     </properties>
 
     <dependencies>
